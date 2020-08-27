@@ -1,4 +1,4 @@
-module github.com/bartvanbenthem/azsdkexample
+module github.com/bartvanbenthem/azure-sdk-example
 
 go 1.14
 
