@@ -1,4 +1,4 @@
-# azsdkexample
+# azure sdk for go example
 azure sdk for go example demonstrates the following concepts.
 
 1. Using `auth.NewAuthorizerFromEnvironment()` for authorization.
