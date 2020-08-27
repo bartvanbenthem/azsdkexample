@@ -2,7 +2,7 @@
 azure sdk for go example demonstrates the following concepts.
 
 1. Using `auth.NewAuthorizerFromEnvironment()` for authorization.
-2. ...
+2. list all resource groups within a given subscription
 
 # How to Build
 
